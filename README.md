@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ivan0525&show_icons=true&theme=dark)
+
 <!--
 **ivan0525/ivan0525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
