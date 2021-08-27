@@ -5,6 +5,7 @@
 ![ivan0525's github visitor](https://profile-counter.glitch.me/0525ivan/count.svg)
 
 🔭 I’m currently working on
+- [my-blog](https://github.com/ivan0525/my-blog)
 - [fe-notes](https://github.com/ivan0525/fe-notes)
 - [react-ts-example](https://github.com/ivan0525/react-ts-example)
 <!--
